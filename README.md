@@ -8,3 +8,13 @@ Please feel free to drop me an email at: ivyyangxueqing@gmail.com
 I'm happy to discuss 1. any modifications to this set of slides.
                      2. any intention of collaborating in those potentials I discussed in the slides.
                   
+
+The content will include 7 topics:
+
+1. Topic 1: Basic Concepts. 
+2. Topic 2: Frontier Algorithms and Application.
+3. Topic 3: Sampling and Adaptive Learning.
+4. Topic 4: Multi-agent RL and equilibrium.
+5. Topic 4: Multi-agent RL and equilibrium.
+6. Topic 6: Sub-optimal Choices and Distortion.
+7. Topic 7: RL with other Machine Learning Methods for Simulation.
