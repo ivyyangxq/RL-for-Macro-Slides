@@ -18,3 +18,5 @@ The content will include 7 topics:
 5. Topic 4: Multi-agent RL and equilibrium.
 6. Topic 6: Sub-optimal Choices and Distortion.
 7. Topic 7: RL with other Machine Learning Methods for Simulation.
+
+I will gradually update all of them, and they are expected to be finished until April.2025
